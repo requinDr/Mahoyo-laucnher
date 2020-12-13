@@ -1,7 +1,7 @@
 # Mahoyo
 ## English
 ### For windows users:  
-**1)** Drop these files at the root of your game  
+**1)** Download and drop these files at the root of your game  
 **2)** Double clic on `Mahoyo.exe(.ink)`  
 
 It should work, if not, check the name of your original executable.  
