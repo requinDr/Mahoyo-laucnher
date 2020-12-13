@@ -1,0 +1,2 @@
+# Mahoyo
+LocalEmulator for Mahoyo
