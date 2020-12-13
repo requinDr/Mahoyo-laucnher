@@ -23,7 +23,7 @@ https://github.com/IDerr/mahoyo-french
 **1)** Mettez les fichiers à la racine de votre jeu  
 **2)** Double cliquez sur `Mahoyo.exe(.ink)`  
 Normallement, cela devrait marcher, sinon vérifiez que votre exécutable d'origine se nomme bien `魔法使いの夜.exe`  
-**3) (optional)** Faites un clic droit sur `Mahoyo.exe`, allez dans propriétés, selectionnez `Changer d'icône...`, puis appuyez sur `Parcourir`, et rendez-vous dans votre dossier du jeu. Icie, selectionnez `魔法使いの夜.exe`. Appuyez sur OK, continuer, appliquer, et OK. Maintenant faites un clic droit sur `Mahoyo.exe` et cliquez sur `Epingler au menu de démarrage`. Le jeu apparaitra maintenant dans votre menu démarrer de windows !
+**3) (optionel)** Faites un clic droit sur `Mahoyo.exe`, allez dans propriétés, selectionnez `Changer d'icône...`, puis appuyez sur `Parcourir`, et rendez-vous dans votre dossier du jeu. Icie, selectionnez `魔法使いの夜.exe`. Appuyez sur OK, continuer, appliquer, et OK. Maintenant faites un clic droit sur `Mahoyo.exe` et cliquez sur `Epingler au menu de démarrage`. Le jeu apparaitra maintenant dans votre menu démarrer de windows !
 
 ### Si vous êtes sur android : 
 **1)** Téléchargez `patch.tjs` et `xp3filter.tjs` ici :
