@@ -6,5 +6,5 @@ For windows users :
 It should work, if not, check the name of your original executable.  
 It should be 魔法使いの夜.exe 
 
-This use files from Locale Emulator
+This use files from Locale Emulator  
 https://github.com/xupefei/Locale-Emulator
