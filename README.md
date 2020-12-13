@@ -16,6 +16,9 @@ https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%B
 
 
 ## Français
+Pensez à installer le patch français ici :  
+https://github.com/IDerr/mahoyo-french  
+
 ### Si vous êtes sur windows :  
 **1)** Mettez les fichiers à la racine de votre jeu
 **2)** Double cliquez sur `Mahoyo.exe(.ink)`  
