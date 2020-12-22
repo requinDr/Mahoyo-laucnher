@@ -36,8 +36,9 @@ https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%B
 **2)** Mettez-les à la racine de votre jeu  
 **3)** Lancez le jeu avec Kirikiroid2  
   
-  
-  
+***
+
+## Credits  
 This use files from Locale Emulator  
 https://github.com/xupefei/Locale-Emulator  
 
