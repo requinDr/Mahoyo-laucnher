@@ -10,8 +10,10 @@ It should work, if not, check the name of your original executable. It should be
 
 ### For android users (bonus tuto):  
 **1)** Download `patch.tjs` and `xp3filter.tjs` here:
-https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs  
-https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/xp3filter.tjs   
+<ul>
+<li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs</li>
+<li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/xp3filter.tjs</li>
+</ul>
 **2)** Drop them at the root of the game  
 **3)** Launch the game with Kirikiroid2  
   
