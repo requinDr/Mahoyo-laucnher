@@ -17,8 +17,10 @@ It should work, if not, check the name of your original executable. It should be
 
 **2)** Drop them at the root of the game  
 **3)** Launch the game with Kirikiroid2  
-  
-***
+
+<br>
+<hr>
+<br>
   
 ## Français
 Pensez à installer le patch français ici :  
@@ -30,7 +32,7 @@ https://github.com/IDerr/mahoyo-french
 <br><br>
 Normallement, cela devrait marcher, sinon vérifiez que votre exécutable d'origine se nomme bien `魔法使いの夜.exe`
 <br><br>
-**3) (optionel, esthétique)** Faites un clic droit sur `Mahoyo.exe`, allez dans propriétés, selectionnez `Changer d'icône...`, puis appuyez sur `Parcourir`, et rendez-vous dans votre dossier du jeu. Icie, selectionnez `魔法使いの夜.exe`. Appuyez sur OK, continuer, appliquer, et OK. Maintenant faites un clic droit sur `Mahoyo.exe` et cliquez sur `Epingler au menu de démarrage`. Le jeu apparaitra maintenant dans votre menu démarrer de windows !
+**3) (optionel, esthétique)** Faites un clic droit sur `Mahoyo.exe`, allez dans propriétés, selectionnez `Changer d'icône...`, puis appuyez sur `Parcourir`, et rendez-vous dans votre dossier du jeu. Ici, selectionnez `魔法使いの夜.exe`. Appuyez sur OK, continuer, appliquer, et OK. Maintenant faites un clic droit sur `Mahoyo.exe` et cliquez sur `Epingler au menu de démarrage`. Le jeu apparaitra maintenant dans votre menu démarrer de windows !
 
 ### Si vous êtes sur android (tuto bonus) : 
 **1)** Téléchargez `patch.tjs` et `xp3filter.tjs` ici :
@@ -42,7 +44,9 @@ Normallement, cela devrait marcher, sinon vérifiez que votre exécutable d'orig
 **2)** Mettez-les à la racine de votre jeu  
 **3)** Lancez le jeu avec Kirikiroid2  
   
-***
+<br>
+<hr>
+<br>
 
 ## Credits  
 This use files from Locale Emulator  
