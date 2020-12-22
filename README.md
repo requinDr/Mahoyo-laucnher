@@ -14,6 +14,7 @@ It should work, if not, check the name of your original executable. It should be
 <li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs</li>
 <li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/xp3filter.tjs</li>
 </ul>
+
 **2)** Drop them at the root of the game  
 **3)** Launch the game with Kirikiroid2  
   
@@ -33,8 +34,11 @@ Normallement, cela devrait marcher, sinon vérifiez que votre exécutable d'orig
 
 ### Si vous êtes sur android (tuto bonus) : 
 **1)** Téléchargez `patch.tjs` et `xp3filter.tjs` ici :
-https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs  
-https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/xp3filter.tjs  
+<ul>
+<li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs</li>
+<li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/xp3filter.tjs</li>
+</ul>
+
 **2)** Mettez-les à la racine de votre jeu  
 **3)** Lancez le jeu avec Kirikiroid2  
   
