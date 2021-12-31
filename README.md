@@ -8,7 +8,7 @@ It should work, if not, check the name of your original executable. It should be
 <br><br>
 **3) (optional)** Right clic on `Mahoyo.exe`, go to property, select `Change icon...`, then `Browse`, and go to your game folder. There, select `魔法使いの夜.exe`. Press OK, continue, apply, and OK. Now right clic on `Mahoyo.exe` and select `Pin to start`. It will now appear in your windows launch menu!
 
-### For android users (bonus tuto):  
+### For android users (bonus tutorial):  
 **1)** Download `patch.tjs` and `xp3filter.tjs` here:
 <ul>
 <li>https://zeas2.github.io/Kirikiroid2_patch/patch/TYPEMOON/%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E5%A4%9C/patch.tjs</li>
@@ -30,7 +30,7 @@ https://github.com/IDerr/mahoyo-french
 **1)** Mettez les fichiers à la racine de votre jeu  
 **2)** Double cliquez sur `Mahoyo.exe(.ink)`
 <br><br>
-Normallement, cela devrait marcher, sinon vérifiez que votre exécutable d'origine se nomme bien `魔法使いの夜.exe`
+Le jeu devrait se lancer, si ce n'est pas le cas, vérifiez que votre exécutable d'origine se nomme bien `魔法使いの夜.exe`
 <br><br>
 **3) (optionel, esthétique)** Faites un clic droit sur `Mahoyo.exe`, allez dans propriétés, selectionnez `Changer d'icône...`, puis appuyez sur `Parcourir`, et rendez-vous dans votre dossier du jeu. Ici, selectionnez `魔法使いの夜.exe`. Appuyez sur OK, continuer, appliquer, et OK. Maintenant faites un clic droit sur `Mahoyo.exe` et cliquez sur `Epingler au menu de démarrage`. Le jeu apparaitra maintenant dans votre menu démarrer de windows !
 
