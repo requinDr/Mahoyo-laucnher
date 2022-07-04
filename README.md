@@ -2,7 +2,7 @@
 ## English
 ### For windows users:  
 **1)** Download and drop these files at the root of your game  
-**2)** Double clic on `Mahoyo.exe(.ink)`
+**2)** Double clic on `Mahoyo.exe(.lnk)`
 <br><br>
 It should work, if not, check the name of your original executable. It should be `魔法使いの夜.exe`
 <br><br>
@@ -28,7 +28,7 @@ https://github.com/IDerr/mahoyo-french
 
 ### Si vous êtes sur windows :  
 **1)** Mettez les fichiers à la racine de votre jeu  
-**2)** Double cliquez sur `Mahoyo.exe(.ink)`
+**2)** Double cliquez sur `Mahoyo.exe(.lnk)`
 <br><br>
 Le jeu devrait se lancer, si ce n'est pas le cas, vérifiez que votre exécutable d'origine se nomme bien `魔法使いの夜.exe`
 <br><br>
